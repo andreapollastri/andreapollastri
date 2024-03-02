@@ -1,6 +1,6 @@
-### Hello 👋
+Hello 👋
 
-#### My name is Andrea Pollastri.
+My name is Andrea Pollastri.
 
 I'm a Web Artisan based in Milan, Italy.
 
