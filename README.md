@@ -6,8 +6,6 @@ I'm a Web Artisan based in Milan, Italy.
 
 I use Laravel and Filament to create awesome projects.
 
-I'm an Open Source supporter and an OWASP member.
-
 Outside of programming, I enjoy listening to and playing good music, tasting wine, and visiting cities with Chiara.
 
 <a href="https://andrea.dev" target="_blank">Website</a> | 
