@@ -1,6 +1,6 @@
 <div align="center">
 
-### Andrea Pollastri
+# Andrea Pollastri
 
 **Made in Italy in 1986 · Coding since 2005**
 
