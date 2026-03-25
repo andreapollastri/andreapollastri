@@ -14,4 +14,4 @@ I build scalable web apps with **Laravel** and **Filament**, contribute to **ope
 
 #### Off-screen
 
-Musician, live sound for [Star Service](https://star-service.it), [AIS](https://www.aisitalia.it) sommelier, [ONAF](https://www.onaf.it/) taster, and exploring the world with Chiara.
+Musician, live sound engineer for [Star Service](https://star-service.it), [AIS](https://www.aisitalia.it) sommelier, [ONAF](https://www.onaf.it/) taster, proud home cook, and exploring the world with Chiara.
