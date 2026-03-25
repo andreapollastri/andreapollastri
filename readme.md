@@ -8,7 +8,7 @@
 
 <hr>
 
-I build scalable web apps with **Laravel** and **Filament**, contribute to **open source**, and think about **security** more than I probably should. I treat **AI** as a sharp tool, not a replacement for thinking.
+**About me:** I craft awesome web applications using Laravel and Filament. I actively contribute to open source, and think about security more than I probably should. Most importantly, I treat AI as a sharp tool, not a replacement for thinking.
 
 **Selected experience:** [WPP](https://wpp.com) · [Docebo](https://docebo.com) · [Musement](https://www.tuimusement.com)
 
