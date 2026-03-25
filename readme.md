@@ -2,7 +2,7 @@
 
 # Andrea Pollastri
 
-**Made in Italy in 1986 · Coding since 2005**
+**Made in Italy in 1986 · Based in Milan · Coding websites and software since 2005**
 
 </div>
 
@@ -12,6 +12,4 @@ I build scalable web apps with **Laravel** and **Filament**, contribute to **ope
 
 **Selected experience:** [WPP](https://wpp.com) · [Docebo](https://docebo.com) · [Musement](https://www.tuimusement.com)
 
-#### Off-screen
-
-Musician, live sound engineer for [Star Service](https://star-service.it), [AIS](https://www.aisitalia.it) sommelier, [ONAF](https://www.onaf.it/) taster, proud home cook, and exploring the world with Chiara.
+**Off-screen:** Musician · Live sound engineer for [Star Service](https://star-service.it) · [AIS](https://www.aisitalia.it) sommelier · [ONAF](https://www.onaf.it/) taster · Proud home cook  · Exploring the world with Chiara
