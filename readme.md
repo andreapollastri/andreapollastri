@@ -10,7 +10,7 @@
 
 I build scalable web apps with **Laravel** and **Filament**, contribute to **open source**, and think about **security** more than I probably should. I treat **AI** as a sharp tool, not a replacement for thinking.
 
-**Selected experience:** [WPP](https://wpp.com) · [Docebo](https://docebo.com) · [Musement](https://musement.com)
+**Selected experience:** [WPP](https://wpp.com) · [Docebo](https://docebo.com) · [Musement](https://www.tuimusement.com)
 
 #### Off-screen
 
